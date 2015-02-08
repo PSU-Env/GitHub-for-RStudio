@@ -24,7 +24,7 @@ More detailed description for setting up Github with R from Ecologist ([link](ht
 Rstudio ([link](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN)).
 
 --------
-**Update Your Forked Directory With Main Project** ([link](https://help.github.com/articles/merging-an-upstream-repository-into-your-fork/)).
+**Update your Forked directory with upstream Main Project** ([link](https://help.github.com/articles/merging-an-upstream-repository-into-your-fork/)).
 
 In Github, copy the link from the main project directory ([link](https://github.com/PSU-EnvStats/Ev567Proj)). *Do not copy the link from your forked directory*.  In R, select Tools, then Shell. At the Shell command prompt type:
 
