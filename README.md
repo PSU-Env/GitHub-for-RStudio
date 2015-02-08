@@ -22,7 +22,7 @@ More detailed description for setting up Github with RStudio from Ecologist ([li
 Rstudio ([link](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN)).
 
 --------
-**Update your Forked directory with the groups upstream Main Project** ([link](https://help.github.com/articles/merging-an-upstream-repository-into-your-fork/)).
+**Update your Forked directory with your groups upstream Main Project** ([link](https://help.github.com/articles/merging-an-upstream-repository-into-your-fork/)).
 
 As contributions are submited to the main project repository with a pull request from folks in your group, you might want to update your directory to include the new changes.
 
