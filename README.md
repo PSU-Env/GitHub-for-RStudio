@@ -11,8 +11,8 @@ Here is the link:  http://psu-envstats.github.io/Github-for-R.
 
 - 2 **After you open a Gitbub account, click on the "Fork" icon at the top of Github page.**  This creates a copy (clone) of the master project directory that is now your repository **(repository = Project in R).**  *Copy the HTTPS clone URL from the box next to your repository on the right. Check the link, it should have your Github user name in it.*
 
-![](fork.png)
-![](link.png)
+![](clone.png)
+![](clone.png)
 
 - 3 **In R, select new project, then version control, then Git.**  Here is where you will paste the link from the Github clone (step 2 above). *Click Tab key and R will create a project name from the one used in Github.*
 
