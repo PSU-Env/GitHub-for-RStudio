@@ -30,4 +30,4 @@ In GitHub, copy the link from the main project directory. *Do not copy the link 
 
 If there are no conflicts, this will update all files in your main PC directory with the main project on GitHub.  Push these changes to our Forked GitHub Repo using the Push option in RStudio.
 
-Here is the link:  http://psu-envstats.github.io/GitHub-for-RStudio.
+Here is the [link](http://psu-envstats.github.io/GitHub-for-RStudio). to a web site with the same information.  
