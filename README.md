@@ -24,6 +24,8 @@ Rstudio ([link](https://support.rstudio.com/hc/en-us/articles/200532077-Version-
 --------
 **Update your Forked directory with the groups upstream Main Project** ([link](https://help.github.com/articles/merging-an-upstream-repository-into-your-fork/)).
 
+As contributions are submited to the main project repository with a pull request from folks in your group, you might want to update your directory to include the new changes.
+
 In GitHub, copy the link from the main project directory. *Do not copy the link from your forked directory*.  In RStudio, select Tools, then Shell. At the Shell command prompt type:
 
 `> git pull https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git BRANCH_NAME`  
