@@ -2,7 +2,7 @@
 
 This site is for setting up GitHub to work with your R projects in RStudio.
 
-Here is the link:  http://psu-envstats.github.io/Github-for-R. 
+Here is the link:  http://psu-envstats.github.io/GitHub-for-RStudio.
 
 --------
 - 1 **Download Git for your operating system ([link](http://www.git-scm.com/downloads)):**  This program allows R to interface with GitHub. **After installing Git:** *In RStudio select Tools, then Global options, then Git/SVN.  Enable version control for RStudio, then browse to your directory that has git.exe. Select OK, then restart R.*  
