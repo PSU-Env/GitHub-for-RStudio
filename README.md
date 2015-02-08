@@ -26,7 +26,7 @@ Rstudio ([link](https://support.rstudio.com/hc/en-us/articles/200532077-Version-
 --------
 **Update your Forked directory with upstream Main Project** ([link](https://help.github.com/articles/merging-an-upstream-repository-into-your-fork/)).
 
-In GitHub, copy the link from the main project directory ([link](https://github.com/PSU-EnvStats/Ev567Proj)). *Do not copy the link from your forked directory*.  In RStudio, select Tools, then Shell. At the Shell command prompt type:
+In GitHub, copy the link from the main project directory. *Do not copy the link from your forked directory*.  In RStudio, select Tools, then Shell. At the Shell command prompt type:
 
 `> git pull https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git BRANCH_NAME`  
 
