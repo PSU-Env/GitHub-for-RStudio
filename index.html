@@ -1,34 +1,37 @@
 <!DOCTYPE html>
 <html>
+
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+    <meta name="description" content="Github-for-R : Designed to help scientists setup version control in R with minimal confusion">
 
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
 
-    <title>Github-for-R by PSU-EnvStats</title>
+    <title>Github-for-R</title>
   </head>
 
   <body>
-    <header>
-      <div class="inner">
-        <h1>Github-for-R</h1>
-        <h2>Designed to help scientists setup version control in R with minimal confusion</h2>
-        <a href="https://github.com/PSU-EnvStats/Github-for-R" class="button"><small>View project on</small> GitHub</a>
-      </div>
-    </header>
 
-    <div id="content-wrapper">
-      <div class="inner clearfix">
-        <section id="main-content">
-          <h3>
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/PSU-EnvStats/Github-for-R">View on GitHub</a>
+
+          <h1 id="project_title">Github-for-R</h1>
+          <h2 id="project_tagline">Designed to help scientists setup version control in R with minimal confusion</h2>
+
+            <section id="downloads">
+              <a class="zip_download_link" href="https://github.com/PSU-EnvStats/Github-for-R/zipball/master">Download this project as a .zip file</a>
+              <a class="tar_download_link" href="https://github.com/PSU-EnvStats/Github-for-R/tarball/master">Download this project as a tar.gz file</a>
+            </section>
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h3>
 <a id="welcome-to-the-github-for-r-setup-pages" class="anchor" href="#welcome-to-the-github-for-r-setup-pages" aria-hidden="true"><span class="octicon octicon-link"></span></a>Welcome to the GitHub for R Setup Pages.</h3>
 
 <hr>
@@ -36,7 +39,13 @@
 <p><strong>Setup instructions:</strong></p>
 
 <ul>
-<li><p>1 <strong>Download Git for your operating system (<a href="http://www.git-scm.com/downloads">link</a>):</strong>  This program allows R to interface with Github. <strong>After installing Git:</strong> <em>In R select Tools, then Global options, then Git/SVN.  Enable version control for RStudio, then browse to your directory that has git.exe. Select OK, then restart R.</em>  </p></li>
+<li>1 <strong>Download Git for your operating system (<a href="http://www.git-scm.com/downloads">link</a>):</strong>  This program allows R to interface with Github. <strong>After installing Git:</strong> <em>In R select Tools, then Global options, then Git/SVN.  Enable version control for RStudio, then browse to your directory that has git.exe. Select OK, then restart R.</em><br>
+</li>
+</ul>
+
+<p><img src="http://psu-envstats.github.io/clone.png" alt=""></p>
+
+<ul>
 <li><p>2 <strong>After you open a Gitbub account, click on the "Fork" icon at the top of Github page.</strong>  This creates a copy (clone) of the master project directory that is now your repository <strong>(repository = Project in R).</strong>  <em>Copy the HTTPS clone URL from the box next to your repository on the right. Check the link, it should have your Github user name in it.</em></p></li>
 <li><p>3 <strong>In R, select new project, then version control, then Git.</strong>  Here is where you will paste the link from the Github clone (step 2 above). <em>Click Tab key and R will create a project name from the one used in Github.</em></p></li>
 <li><p><strong>Finishing step 3 will automaticly copy all files into your new R directory on your PC.</strong>  These are all the files currently in the main Github directory that you forked, so you dont have to start from scratch.  </p></li>
@@ -64,25 +73,18 @@ Rstudio (<a href="https://support.rstudio.com/hc/en-us/articles/200532077-Versio
 <a id="support-or-contact" class="anchor" href="#support-or-contact" aria-hidden="true"><span class="octicon octicon-link"></span></a>Support or Contact</h3>
 
 <p>Having trouble with Pages? Check out the documentation at <a href="https://help.github.com/pages">https://help.github.com/pages</a> or contact <a href="mailto:support@github.com">support@github.com</a> and we’ll help you sort it out.</p>
-        </section>
-
-        <aside id="sidebar">
-          <a href="https://github.com/PSU-EnvStats/Github-for-R/zipball/master" class="button">
-            <small>Download</small>
-            .zip file
-          </a>
-          <a href="https://github.com/PSU-EnvStats/Github-for-R/tarball/master" class="button">
-            <small>Download</small>
-            .tar.gz file
-          </a>
-
-          <p class="repo-owner"><a href="https://github.com/PSU-EnvStats/Github-for-R"></a> is maintained by <a href="https://github.com/PSU-EnvStats">PSU-EnvStats</a>.</p>
-
-          <p>This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the Architect theme by <a href="https://twitter.com/jasonlong">Jason Long</a>.</p>
-        </aside>
-      </div>
+      </section>
     </div>
 
-  
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p class="copyright">Github-for-R maintained by <a href="https://github.com/PSU-EnvStats">PSU-EnvStats</a></p>
+        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+
+    
+
   </body>
 </html>
