@@ -18,7 +18,7 @@ This page is a reference for setting up GitHub for a group to work with R projec
 
 **Finishing step 3 will automaticly copy all files into your new R directory on your PC.**  These are all the files currently in the main GitHub directory that you forked, so you dont have to start from scratch.  
 
-More detailed description for setting up Github with R from Ecologist ([link](http://www.molecularecologist.com/2013/11/using-github-with-r-and-rstudio/)), and 
+More detailed description for setting up Github with RStudio from Ecologist ([link](http://www.molecularecologist.com/2013/11/using-github-with-r-and-rstudio/)), and 
 Rstudio ([link](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN)).
 
 --------
