@@ -7,7 +7,7 @@ This page is a reference for setting up GitHub for a group to work with R projec
 
 ![](gitSetup.png)
 
-**2 After you open a GitHub account, click on the "Fork" icon at the top of GitHub page.**  This creates a copy (clone) of the master project directory that is now your repository **(repository = Project in R).**  *Copy the HTTPS clone URL from the box next to your repository on the right. Check the link, it should have your GitHub user name in it.*
+**2 After you open a GitHub account, navigate to the repository that is setup for your group, click on the "Fork" icon at the top of GitHub page.**  This creates a copy (clone) of the master project directory that is now your repository **(repository = Project in R).**  *Copy the HTTPS clone URL from the box next to your repository on the right. Check the link, it should have your GitHub user name in it.*
 
 ![](fork.png)
 ![](clone.png)
