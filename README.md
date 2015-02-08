@@ -1,4 +1,4 @@
-# Github-for-RStudio
+# GitHub-for-RStudio
 
 This site is for setting up GitHub to work with your R projects in RStudio.
 
