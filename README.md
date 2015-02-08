@@ -1,6 +1,6 @@
-# Github-for-R
+# Github-for-RStudio
 
-This site is for setting up GitHub to work with your R projects.
+This site is for setting up GitHub to work with your R projects in RStudio.
 
 Here is the link:  http://psu-envstats.github.io/Github-for-R. 
 
