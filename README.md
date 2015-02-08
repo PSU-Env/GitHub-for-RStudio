@@ -1,6 +1,6 @@
 # GitHub-for-RStudio
 
-This site is for setting up GitHub to work with your R projects in RStudio.  The three steps outlined below are designed to setup a fork from a main directory so that multiple people can collaborate on a project. 
+This site is for setting up GitHub to work with your R projects in RStudio.  The three steps outlined below are designed to setup a fork from a main project directory in GitHub so that multiple people can collaborate on a project. 
 
 --------
 **1 Download Git for your operating system ([link](http://www.git-scm.com/downloads)):**  This program allows R to interface with GitHub. **After installing Git:** *In RStudio select Tools, then Global options, then Git/SVN.  Enable version control for RStudio, then browse to your directory that has git.exe. Select OK, then restart R.*  
