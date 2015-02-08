@@ -30,5 +30,5 @@ In GitHub, copy the link from the main project directory ([link](https://github.
 
 `> git pull https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git BRANCH_NAME`  
 
-If there are no conflicts, this will update all files in your main PC directory with the main project on Github.  Push these changes to our Forked Github Repo using the R Push option.
+If there are no conflicts, this will update all files in your main PC directory with the main project on Github.  Push these changes to our Forked Github Repo using the Push option in RStudio.
 
