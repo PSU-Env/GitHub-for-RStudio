@@ -1,6 +1,6 @@
 # GitHub-for-RStudio
 
-This page is a reference for setting up GitHub for a group to work with R projects in RStudio. The three steps outlined below are designed to setup a fork from a main project directory in GitHub so that multiple people can collaborate on a project. The assumption is that you have already setup a [GitHub](https://github.com/) account, and installed both [R](http://www.r-project.org/) and [RStudio](http://www.rstudio.com/) on your machine.
+This page is a reference for setting up GitHub for a group to work with R projects in RStudio. The three steps outlined below are designed to setup a fork from a main project directory in GitHub so that multiple people can collaborate on a project. The assumption is that you have already setup a [GitHub](https://github.com/) account, and installed both [R](http://www.r-project.org/) and [RStudio](http://www.rstudio.com/) on your machine.  If you do not havae push access to the main repository, at the bottom are directions for keeping your repository up-to-date with the upstream repository.  
 
 --------
 **1 Download Git for your operating system ([link](http://www.git-scm.com/downloads)):**  This program allows R to interface with GitHub. **After installing Git:** *In RStudio select Tools, then Global options, then Git/SVN.  Enable version control for RStudio, then browse to your directory that has git.exe. Select OK, then restart R.*  
@@ -30,6 +30,6 @@ In GitHub, copy the link from the main project directory. *Do not copy the link 
 
 `> git pull https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git BRANCH_NAME`  
 
-If there are no conflicts, this will update all files in your main PC directory with the main project on GitHub.  Push these changes to our Forked GitHub Repo using the Push option in RStudio.
+If there are no conflicts, this will update all files in your main PC directory with the main project on GitHub.  You can now push these changes to our Forked GitHub Repo using the Push option in RStudio.
 
 Here is the [link](http://psu-envstats.github.io/GitHub-for-RStudio) to a web site with the same information.  
