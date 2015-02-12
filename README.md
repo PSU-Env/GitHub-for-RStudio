@@ -49,5 +49,5 @@ Tell Git your name so your commits will be properly labeled, this should be the 
 Tell Git the email address that will be associated with your Git commits. The email you specify should be the same one found in your email settings in GitHub.
 `$ git config --global user.email "YOUR EMAIL ADDRESS"`
 
-To find your *git.exe* file path on a MAC for step 1 above, type `git --exec-path` into the console.
+To find your *git.exe* file path on a MAC for step 1 above, type `git --exec-path` into the console.  Return to step one above.
 
