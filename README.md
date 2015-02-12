@@ -4,6 +4,8 @@ This page is a reference for setting up GitHub for a group to work with R projec
 
 If you do not have push access to the main repository, at the bottom are [directions](https://help.github.com/articles/merging-an-upstream-repository-into-your-fork/) for keeping your repository up-to-date with the upstream repository.  
 
+There is also a brief description on setting up Git for MAC's at the bottom.
+
 --------
 **1 Download Git for your operating system ([link](http://www.git-scm.com/downloads)):**  This program allows R to interface with GitHub. **After installing Git:** *In RStudio select Tools, then Global options, then Git/SVN.  Enable version control for RStudio, then browse to your directory that has **git.exe.** Select OK, then restart R.*  
 
