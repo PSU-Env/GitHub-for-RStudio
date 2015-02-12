@@ -5,7 +5,7 @@ This page is a reference for setting up GitHub for a group to work with R projec
 If you do not have push access to the main repository, at the bottom are [directions](https://help.github.com/articles/merging-an-upstream-repository-into-your-fork/) for keeping your repository up-to-date with the upstream repository.  
 
 --------
-**1 Download Git for your operating system ([link](http://www.git-scm.com/downloads)):**  This program allows R to interface with GitHub. **After installing Git:** *In RStudio select Tools, then Global options, then Git/SVN.  Enable version control for RStudio, then browse to your directory that has git.exe. Select OK, then restart R.*  
+**1 Download Git for your operating system ([link](http://www.git-scm.com/downloads)):**  This program allows R to interface with GitHub. **After installing Git:** *In RStudio select Tools, then Global options, then Git/SVN.  Enable version control for RStudio, then browse to your directory that has **git.exe.** Select OK, then restart R.*  
 
 ![](gitSetup.png)
 
@@ -35,3 +35,17 @@ In GitHub, copy the link from the main project directory. *Do not copy the link 
 If there are no conflicts, this will update all files in your main PC directory with the main project on GitHub.  You can now push these changes to our Forked GitHub Repo using the Push option in RStudio.
 
 Here is the [link](http://psu-envstats.github.io/GitHub-for-RStudio) to a web site with the same information.  
+
+--------
+**For Mac IO**
+
+After installing Git, on your computer, open the Terminal application.
+ 
+Tell Git your name so your commits will be properly labeled, this should be the same as your user name in GitHub. Type everything after the $ here:
+`$ git config --global user.name "YOUR NAME"`
+ 
+Tell Git the email address that will be associated with your Git commits. The email you specify should be the same one found in your email settings in GitHub.
+`$ git config --global user.email "YOUR EMAIL ADDRESS"`
+
+
+
