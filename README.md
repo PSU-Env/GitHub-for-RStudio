@@ -39,7 +39,7 @@ If there are no conflicts, this will update all files in your main PC directory 
 Here is the [link](http://psu-envstats.github.io/GitHub-for-RStudio) to a web site with the same information.  
 
 --------
-**For Mac OS [Link](https://help.github.com/articles/set-up-git/#platform-mac)**
+**For Mac OS ([Link](https://help.github.com/articles/set-up-git/#platform-mac))**
 
 After installing Git, on your computer, open the Terminal application.
  
